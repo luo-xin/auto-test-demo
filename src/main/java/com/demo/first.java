@@ -13,6 +13,6 @@ public class first {
 
     public void test(){
         System.out.println("hhhh");
-        System.out.println("yyy");
+        System.out.println("yyyo");
     }
 }
